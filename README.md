@@ -5,19 +5,12 @@
  </a>
 
 </div>
-
 <br>
-<h1 align="center">Hii &nbsp;<a href="https://shubham.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
-
-
-
+<h1 align="center">Hii &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
 </p>
-
 <h1 class="tech-stack-heading"> 🌐 Socials</h1>
-
 <div align="center">
 <table>
   <tr>
@@ -32,7 +25,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/shubhammishra100" target="_blank">
+      <a href="linkedin.com/in/shubhammishra100" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fshubhammishra100&size=square" alt="Shubham Mishra">
       </a>
     </td>
@@ -44,8 +37,8 @@
   </tr>
   <tr>
    <td align="center">
-      <a href="https://x.com/f10shubham" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@f10shubham&size=square" alt="shubham mishra">
+      <a href="https://x.com/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@shubhammishra&size=square" alt="shubham mishra">
       </a>
     </td>
     <td align="center">
@@ -55,51 +48,24 @@
     </td>
   </tr>
 </table>
-
 <br>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
-
 <h1 class="tech-stack-heading">💫 About Me</h1>
-
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
-
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
-
 <p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
-
-
-
-
 <h1 class="tech-stack-heading">📊 GitHub Stats</h1>
-
-
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aenigma-lab's Stats" style="max-width: 49%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=vue-dark&hide_border=true" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
 </div>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aenigma-lab's Top Languages">
-
 <h1 class="tech-stack-heading">💻 Tech Stack</h1>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-
-
-
-
-<h3 style="text-align: left;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
-<h3 style="text-align: left;">Web Development</h3>
-
-
-
-
+<h1 class="tech-stack-heading"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h3 align="center">Web Development</h3>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -161,9 +127,6 @@
   </tbody>
 </table>
 </div>
-
-
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -189,7 +152,6 @@
   </tbody>
 </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -215,9 +177,7 @@
   </tbody>
 </table>
 </div>
-
 <h3 align="center">Cloud Computing & DevOps</h3>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -243,7 +203,6 @@
   </tbody>
 </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -266,7 +225,6 @@
   </tbody>
 </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -286,7 +244,6 @@
   </tbody>
 </table>
 </div>
-
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -317,7 +274,6 @@
   </tbody>
  </table>
 </div>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -340,8 +296,6 @@
   </tbody>
 </table>
 </div>
-
-
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -376,49 +330,39 @@
 </table>
 </div>
 </div>
-
-<h1 style="text-align: left;">✍️ Random Dev Quote</h1>
+<h1 class="tech-stack-heading">✍️ Random Dev Quote</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-
-<h1 style="text-align: left;">🔝 Top Contributed Repo</h1>
-<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-
-<br>
-<h1 style="text-align: left;">Contribution</h1>
-<img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
-
-<h1 style="text-align: left;">📈 Git Graph</h1>
+<h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
+<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<hr>
+<h1 class="tech-stack-heading">📈 Git Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&hide_border=true&layout=compact&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aenigma-lab&&&hide_border=true&layout=compact&theme=highcontrast" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aenigma-lab&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aenigma-lab&&hide_border=true&layout=compact&theme=highcontrast" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aenigma-lab&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 </div>
-
 <div style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" 
        alt="Aenigma-lab GitHub stats" 
        style="width: 100%; height: 200px;">
 </div>
-
 <div style="width: 100%;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aenigma-lab&theme=highcontrast&hide_border=true" 
        alt="Aenigma-lab Profile Details" 
        style="width: 100%; height: 200px;">
 </div>
-
-<h3 style="text-align: left;">Top Repositories</h3>
+### Top Repositories
 <div align="center">
   <table>
     <tr>
@@ -435,54 +379,51 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/aenigma-lab/ComplaintManagementSystem">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&repo=ComplaintManagementSystem&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anegima-lab&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anegima-lab&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
-
-<br>
-
-<h1 style="text-align: left;">GitHub Contribution Chart</h1>
+</div>
+### GitHub Contribution Chart
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
-
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
-
-  <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
-  <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" />
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="400px" />
+  
+  <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Aenigma-Lab's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
 </details>
-
-<br>
-
-<h1 style="text-align: left;">Aenigma-Lab/README.md activity</h1>
-<img width="100%" src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-<h2 style="text-align: left;">Star History Chart</h2>
-<a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
-</a>
-
-<h3 style="text-align: left;">My HackerRank Profile</h3>
+### Aenigma-Lab/README.md activity
+<img 
+  width="100%" 
+  src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
+  alt="Repobeats analytics" 
+  title="Repobeats analytics image" 
+  style="display: block; margin: 0 auto;" 
+/>
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
+  </a>
+</details>
+### My HackerRank Profile : 
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
-
-<h1 style="text-align: left;">LeetCode Stat with HeatMap</h1>
+<h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
-
-<h1 style="text-align: left;">Stack Overflow</h1>
+<h1 class="tech-stack-heading">Stack overflow</h1>
 <table>
   <tr>
     <th colspan="2">Stack Overflow</th>
@@ -498,8 +439,7 @@
     </td>
   </tr>
 </table>
-
-<h1 style="text-align: left;">📫 Let's Connect!</h1>
+<h1 class="tech-stack-heading">📫 Let's Connect!</h1>
 <table align="center">
   <tr>
     <td colspan="3" align="center">
@@ -508,30 +448,23 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://wa.me/918356083921" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8356083921&size=square" alt="Contact on WhatsApp" style="margin: 10px;">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-+918356083921=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8356083921&size=square" alt="India-+918356083921" style="margin: 10px;">
       </a>
     </td>
   </tr>
 </table>
-
-<h1 style="text-align: left;">💰 Support Me</h1>
+<h1 class="tech-stack-heading">💰 Support Me</h1>
 <div align="center">
-  <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-  <br>
-  <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
+ <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
 </div>
-
 <br>
-
-<h3 style="text-align: left;">
+<h3>
 <div align="center">
-  ⭐️ From [Shubham Mishra](https://github.com/Aenigma-Lab) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+  
+⭐️ From [Shubham Mishra](https://github.com/Aenigma-Lab) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 </div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=footer" width="100%">
-</h3>
