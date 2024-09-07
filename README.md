@@ -470,12 +470,10 @@
   
   <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" height="450px" style="margin-top: -55px; display: block;max-width: 100%" />
+
 
 </details>
-
-
-<hr>
 
 <h1 class="tech-stack-heading">Aenigma-Lab/README.md activity<h1>
 <img 
