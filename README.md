@@ -55,7 +55,9 @@
   <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h1 class="tech-stack-heading">💫 About Me</h1>
+<h1 class="tech-stack-heading" style="text-align: left;">💫 About Me</h1>
+
+
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
 <p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
@@ -417,7 +419,7 @@
   
   <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Aenigma-Lab's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right" style ="margin-top: -55px"   />
 </details>
 
 ### Aenigma-Lab/README.md activity
