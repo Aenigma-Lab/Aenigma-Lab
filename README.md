@@ -382,7 +382,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 
 <h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
-<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 
 <br>
@@ -399,13 +399,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&hide_border=true&layout=compact&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aenigma-lab&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aenigma-lab&&&hide_border=true&layout=compact&theme=highcontrast" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aenigma-lab&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aenigma-lab&&hide_border=true&layout=compact&theme=highcontrast" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -466,12 +466,14 @@
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
+  </details>
   
-  <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Aenigma-Lab's GitHub Stats">
+  
+  <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
 
-</details>
+<br>
 
 ### Aenigma-Lab/README.md activity
 <img 
