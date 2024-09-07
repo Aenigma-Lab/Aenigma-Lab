@@ -12,6 +12,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMSOFTWARESOLUTION&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAMSOFTWARESOLUTION&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamsoftwaresolution&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="shubhamsoftwaresolution's Stats" style="max-width: 49%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsoftwaresolution&theme=vue-dark&hide_border=true" alt="shubhamsoftwaresolution's Streak" style="max-width: 49%;">
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsoftwaresolution&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="shubhamsoftwaresolution's Top Languages">
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
