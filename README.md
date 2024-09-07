@@ -542,7 +542,9 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
   <br>
-  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/tree/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
+  <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
+  </a>
 </div>
 
 <br>
