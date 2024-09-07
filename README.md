@@ -486,7 +486,7 @@
 </details>
 
 ### My HackerRank Profile : 
-![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/HackerrankPro.PNG?raw=true)
+![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)
 [HackerRank Profile](https://www.hackerrank.com/profile/idealshubham1998)
 
 <h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
