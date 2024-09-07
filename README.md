@@ -471,7 +471,7 @@
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right" style ="margin-top: -55px"   />
 </details>
 
-### Aenigma-Lab/README.md activity
+
 
 <img 
   width="100%" 
