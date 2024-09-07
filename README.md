@@ -475,7 +475,7 @@
 </details>
 
 
-
+<hr>
 
 <h1 class="tech-stack-heading">Aenigma-Lab/README.md activity<h1>
 <img 
