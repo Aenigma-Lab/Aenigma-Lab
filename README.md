@@ -7,7 +7,7 @@
 </div>
 
 <br>
-<h1 align="center">Hii &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
+<h1 align="center">Hii &nbsp;<a href="https://shubham.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
 
 
 
@@ -32,7 +32,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="linkedin.com/in/shubhammishra100" target="_blank">
+      <a href="https://linkedin.com/in/shubhammishra100" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fshubhammishra100&size=square" alt="Shubham Mishra">
       </a>
     </td>
@@ -44,8 +44,8 @@
   </tr>
   <tr>
    <td align="center">
-      <a href="https://x.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@shubhammishra&size=square" alt="shubham mishra">
+      <a href="https://x.com/f10shubham" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@f10shubham&size=square" alt="shubham mishra">
       </a>
     </td>
     <td align="center">
