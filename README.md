@@ -48,24 +48,29 @@
     </td>
   </tr>
 </table>
+
 <br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
+
 <h1 class="tech-stack-heading">💫 About Me</h1>
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
 <p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
+
 <h1 class="tech-stack-heading">📊 GitHub Stats</h1>
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aenigma-lab's Stats" style="max-width: 49%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=vue-dark&hide_border=true" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aenigma-lab's Top Languages">
-<h1 class="tech-stack-heading">💻 Tech Stack</h1>
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
 <h1 class="tech-stack-heading"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
 <h3 align="center">Web Development</h3>
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -330,12 +335,18 @@
 </table>
 </div>
 </div>
+
 <h1 class="tech-stack-heading">✍️ Random Dev Quote</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+
 <h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
+
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+
 <hr>
+
 <h1 class="tech-stack-heading">📈 Git Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <div align="center">
 <table>
@@ -362,7 +373,9 @@
        alt="Aenigma-lab Profile Details" 
        style="width: 100%; height: 200px;">
 </div>
+
 ### Top Repositories
+
 <div align="center">
   <table>
     <tr>
@@ -391,7 +404,9 @@
     </tr>
   </table>
 </div>
+
 ### GitHub Contribution Chart
+
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
@@ -404,7 +419,9 @@
       <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
 </details>
+
 ### Aenigma-Lab/README.md activity
+
 <img 
   width="100%" 
   src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
@@ -417,13 +434,17 @@
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
 </details>
-### My HackerRank Profile : 
+
+### My HackerRank Profile
+
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 <h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
+
 <h1 class="tech-stack-heading">Stack overflow</h1>
+
 <table>
   <tr>
     <th colspan="2">Stack Overflow</th>
