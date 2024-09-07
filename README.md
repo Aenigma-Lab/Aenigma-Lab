@@ -455,12 +455,10 @@
     </tr>
   </table>
 </div>
-
 ### GitHub Contribution Chart
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
-
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
@@ -468,11 +466,11 @@
   </summary>
   
   <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Aenigma-Lab's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right"   />
-
+  <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" width="50%" align="left" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right" />
 </details>
-<br>
+
+
 
 ### Aenigma-Lab/README.md activity
 <img 
@@ -480,18 +478,14 @@
   src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
   alt="Repobeats analytics" 
   title="Repobeats analytics image" 
-  style="display: block; margin: 0 auto;" 
-/>
+  style="display: block; margin: 0 auto;"/>
 
+<h2>Star History Chart</h2>
+<a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
+</a>
 
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-### My HackerRank Profile : 
+### My HackerRank Profile  
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 
 <h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
