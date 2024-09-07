@@ -443,8 +443,8 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anegima-lab&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/aenigma-lab/ComplaintManagementSystem">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anegima-lab&repo=ComplaintManagementSystem&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
