@@ -55,8 +55,7 @@
   <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h1 class="tech-stack-heading" style="text-align: left;">💫 About Me</h1>
-
+<h1 style="text-align: left;">💫 About Me</h1>
 
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
