@@ -1,8 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF" width="100%">
 <div align="center">
-  <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&?fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&linkedin=shubhammishra100&github=Aenigma-Lab&facebook=f10.shubham/" alt="Shubham Mishra's Card" />
-  </a>
+ <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&linkedin=shubhammishra100&github=Aenigma-Lab&facebook=f10.shubham/" alt="Shubham Mishra's Card" />
+ </a>
 
 </div>
 
@@ -386,12 +386,12 @@
 
 <hr>
 <br>
-## Contribution
+<h1 class="tech-stack-heading"> Contribution<h1>
 
 <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 
 <hr>
-<h1 class="tech-stack-heading">📈 Git Graph
+<h1 class="tech-stack-heading">📈 Git Graph<h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 
