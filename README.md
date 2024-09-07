@@ -93,9 +93,9 @@
 
 
 
-<h1 class="tech-stack-heading"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h3 style="text-align: left;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h3 align="center">Web Development</h3>
+<h3 style="text-align: left;">Web Development</h3>
 
 
 
@@ -377,23 +377,18 @@
 </div>
 </div>
 
-
-<h1 class="tech-stack-heading">✍️ Random Dev Quote</h1>
+<h1 style="text-align: left;">✍️ Random Dev Quote</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 
-<h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
+<h1 style="text-align: left;">🔝 Top Contributed Repo</h1>
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
-
 <br>
-<h1 class="tech-stack-heading"> Contribution<h1>
-
+<h1 style="text-align: left;">Contribution</h1>
 <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 
-
-<h1 class="tech-stack-heading">📈 Git Graph<h1>
+<h1 style="text-align: left;">📈 Git Graph</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
 
 <div align="center">
 <table>
@@ -409,7 +404,6 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <div style="width: 100%;">
@@ -424,9 +418,7 @@
        style="width: 100%; height: 200px;">
 </div>
 
-
-
-### Top Repositories
+<h3 style="text-align: left;">Top Repositories</h3>
 <div align="center">
   <table>
     <tr>
