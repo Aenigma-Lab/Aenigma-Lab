@@ -425,8 +425,7 @@
 </div>
 
 
-
-### Top Repositories
+<h1 class="tech-stack-heading">Top Repositories<h1>
 <div align="center">
   <table>
     <tr>
@@ -458,7 +457,7 @@
 <br>
 
 
-## GitHub Contribution Chart
+<h1 class="tech-stack-heading">GitHub Contribution Chart<h1>
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
@@ -481,7 +480,7 @@
 <br>
 
 
-### Aenigma-Lab/README.md activity
+<h1 class="tech-stack-heading">Aenigma-Lab/README.md activity<h1>
 <img 
   width="100%" 
   src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
@@ -489,7 +488,7 @@
   title="Repobeats analytics image" 
   />
 
-<h2>Star History Chart</h2>
+<h1>Star History Chart</h1>
 <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
 </a>
