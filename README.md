@@ -449,55 +449,40 @@
 
 <br>
 
-
-## GitHub Contribution Chart
+<h1 style="text-align: left;">GitHub Contribution Chart</h1>
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
-
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
 
-<img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
-    <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" />
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="400px"  />
-
+  <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="400px" />
 </details>
-
-
-
 
 <br>
 
+<h1 style="text-align: left;">Aenigma-Lab/README.md activity</h1>
+<img width="100%" src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-### Aenigma-Lab/README.md activity
-<img 
-  width="100%" 
-  src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
-  alt="Repobeats analytics" 
-  title="Repobeats analytics image" 
-  />
-
-<h2>Star History Chart</h2>
+<h2 style="text-align: left;">Star History Chart</h2>
 <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
 </a>
 
-### My HackerRank Profile  
+<h3 style="text-align: left;">My HackerRank Profile</h3>
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 
-<h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
+<h1 style="text-align: left;">LeetCode Stat with HeatMap</h1>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
 
-
-
-<h1 class="tech-stack-heading">Stack overflow</h1>
-
+<h1 style="text-align: left;">Stack Overflow</h1>
 <table>
   <tr>
     <th colspan="2">Stack Overflow</th>
@@ -514,8 +499,7 @@
   </tr>
 </table>
 
-<h1 class="tech-stack-heading">📫 Let's Connect!</h1>
-
+<h1 style="text-align: left;">📫 Let's Connect!</h1>
 <table align="center">
   <tr>
     <td colspan="3" align="center">
@@ -528,12 +512,10 @@
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8356083921&size=square" alt="Contact on WhatsApp" style="margin: 10px;">
       </a>
     </td>
-
   </tr>
 </table>
 
-
-<h1 class="tech-stack-heading">💰 Support Me</h1>
+<h1 style="text-align: left;">💰 Support Me</h1>
 <div align="center">
   <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
@@ -546,11 +528,10 @@
 
 <br>
 
-<h3>
+<h3 style="text-align: left;">
 <div align="center">
-
-⭐️ From [Shubham Mishra](https://github.com/Aenigma-Lab) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
+  ⭐️ From [Shubham Mishra](https://github.com/Aenigma-Lab) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 </div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=footer" width="100%">
+</h3>
