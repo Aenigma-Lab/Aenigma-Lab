@@ -470,7 +470,7 @@
   </summary>
 
 <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph," alt="Aenigma-Lab's GitHub Stats">
-    <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats"  />
+    <img src="https://github-readme-bento.vercel.app/stats/Aenigma-Lab?theme=dark" alt="Aenigma-Lab's GitHub Stats" />
     <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="400px"  />
 
 </details>
