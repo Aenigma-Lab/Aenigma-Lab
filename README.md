@@ -465,7 +465,7 @@
 
 
 <details>
-    <summary style="text-align: center; display: flex; justify-content: center; align-items: center; font-size: 1.17em; font-weight: bold;">
+     <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
         <img src="https://myreadme.vercel.app/api/embed/Aenigma-Lab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Aenigma-Lab's GitHub Stats">
