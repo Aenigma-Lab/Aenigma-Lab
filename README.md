@@ -385,6 +385,12 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 <hr>
+<br>
+## Contribution
+
+<img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+
+
 
 <h1 class="tech-stack-heading">📈 Git Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
