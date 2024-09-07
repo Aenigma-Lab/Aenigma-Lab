@@ -484,7 +484,7 @@
   <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
-</details>
+
 
 ### My HackerRank Profile
 
@@ -526,14 +526,20 @@
     </td>
   </tr>
 </table>
+
 <h1 class="tech-stack-heading">💰 Support Me</h1>
 <div align="center">
- <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  </a>
+  <br>
+  <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
   </a>
 </div>
+
 <br>
-<h3>
+
 <div align="center">
   
 ⭐️ From [Shubham Mishra](https://github.com/Aenigma-Lab) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
