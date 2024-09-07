@@ -475,13 +475,12 @@
 
 </details><br><br><br><hr>
 
-<h1 class="tech-stack-heading">Aenigma-Lab/README.md activity<h1>
+### Aenigma-Lab/README.md activity
 <img 
   width="100%" 
   src="https://repobeats.axiom.co/api/embed/12d31232c47b66de3d447d44e1beb5d3dddae0a1.svg" 
   alt="Repobeats analytics" 
   title="Repobeats analytics image" 
-  style="display: block; margin: 0 auto;"
   />
 
 <h2>Star History Chart</h2>
