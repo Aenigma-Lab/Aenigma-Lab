@@ -53,6 +53,11 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAenigma-Lab&size=square" alt="Shubham Mishra">
       </a>
     </td>
+    <td align="center">
+      <a href="https://dev.to/shubham_mishra_1" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fshubham_mishra_1&size=square" alt="Shubham Mishra">
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -308,7 +313,7 @@
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
@@ -360,7 +365,7 @@
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
