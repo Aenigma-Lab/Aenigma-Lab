@@ -471,7 +471,8 @@
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Aenigma-Lab" alt="Advanced GitHub Stats for Aenigma-Lab" width="50%" align="right" style ="margin-top: -55px"   />
 </details>
 
-<hr>
+
+<div>
 
 ### Aenigma-Lab/README.md activity
 <img 
@@ -481,6 +482,7 @@
   title="Repobeats analytics image" 
   style="display: block; margin: 0 auto;" 
 />
+</div>
   <h2>Star History Chart</h2>
   <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
