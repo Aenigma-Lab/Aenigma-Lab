@@ -454,7 +454,7 @@
       </td>
       <td>
         <a href="https://github.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&pdf-watermarking-tool&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&repo=pdf-watermarking-tool&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
