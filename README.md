@@ -448,13 +448,13 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/aenigma-lab/ComplaintManagementSystem">
+        <a href="https://github.com/aenigma-lab/complaint-management-system">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&repo=ComplaintManagementSystem&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenigma-lab&pdf-watermarking-tool&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
