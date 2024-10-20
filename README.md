@@ -496,17 +496,17 @@
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 
 <h1 class="tech-stack-heading">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="48" height="48" style="vertical-align: bottom; margin-right: 8px;" alt="LeetCode Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" height="32" style="vertical-align: bottom; margin-right: 8px;" alt="LeetCode Logo">
   <span style="display: inline-block; vertical-align: bottom;">LeetCode Stat with HeatMap</span>
 </h1>
-
 
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
 
+
 <h1 class="tech-stack-heading">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="48" height="48" style="vertical-align: bottom;" alt="LeetCode Logo"> Stack Overflow
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="32" height="32" style="vertical-align: bottom;" alt="LeetCode Logo"> Stack Overflow
 </h1>
 
 <table>
