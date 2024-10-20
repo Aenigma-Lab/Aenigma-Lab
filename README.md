@@ -432,7 +432,7 @@
 </div>
 
 
-<h1 class="tech-stack-heading">👨‍💻 Top Repositories<h1>
+<h1 class="tech-stack-heading">🎢 Top Repositories<h1>
 
 <div align="center">
   <table>
@@ -463,7 +463,7 @@
   </table>
 </div>
 
-<h1>GitHub Contribution Chart and Activity<h1>
+<h1 class="tech-stack-heading">🏋 GitHub Contribution Chart and Activity<h1>
 
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
@@ -486,14 +486,12 @@
   style="display: block; margin: 0 auto;" 
 />
 
-  <h2>Star History Chart</h2>
+  <h2>✨ Star History Chart</h2>
   <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
 
-
-### My HackerRank Profile
-
+<h1 class="tech-stack-heading">🕵️ My HackerRank Profile<h1>
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 <h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
 <p align="center">
