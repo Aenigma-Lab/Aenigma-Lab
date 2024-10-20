@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF" width="100%">
 
 <div align="center">
- <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&linkedin=shubhammishra100&github=Aenigma-Lab&facebook=f10.shubham/&iconColor=%23ffffff&backgroundColor=%23000000" alt="Shubham Mishra's Card" /></a>
+ <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&linkedin=shubhammishra100&github=Aenigma-Lab&facebook=f10.shubham/&iconColor=%23ffffff&backgroundColor=%23151515" alt="Shubham Mishra's Card" /></a>
 </div>
  
 
@@ -70,7 +70,7 @@
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=fb8c00&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 </div><br>
@@ -389,7 +389,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 
 <h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
-<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&icon_color=fb8c00&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 
 <br>
@@ -535,7 +535,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-+918356083921=square" target="_blank">
+      <a href="https://wa.me/918356083921" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8356083921&size=square" alt="India-+918356083921" style="margin: 10px;">
       </a>
     </td>
