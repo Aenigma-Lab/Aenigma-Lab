@@ -500,8 +500,11 @@
 </p>
 
 <h1 class="tech-stack-heading">
-  <i class="fa-brands fa-stack-overflow" style="color: #ff7800;"></i> Stack Overflow
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#ff7800" viewBox="0 0 24 24">
+    <path d="M12 0L9 5h6l-3-5zm3 7H9l-3 12h12l-3-12zm-3 4.5l1 1.5h-2l1-1.5zm0 3l1 1.5h-2l1-1.5z"/>
+  </svg> Stack Overflow
 </h1>
+
 
 <table>
   <tr>
