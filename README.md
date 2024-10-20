@@ -500,7 +500,7 @@
 </p>
 
 <h1 class="tech-stack-heading">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="24" height="24" style="vertical-align: middle;"/> Stack Overflow
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="48" height="48" style="vertical-align: middle;"/> Stack Overflow
 </h1>
 
 <table>
