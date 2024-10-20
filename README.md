@@ -499,7 +499,9 @@
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
 
-<h1 class="tech-stack-heading">Stack overflow</h1>
+<h1 class="tech-stack-heading">
+  <i class="fa-brands fa-stack-overflow" style="color: #ff7800;"></i> Stack Overflow
+</h1>
 
 <table>
   <tr>
