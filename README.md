@@ -60,19 +60,22 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fshubham_mishra_1&size=square" alt="Shubham Mishra">
       </a>
     </td>
+    <td align="center">
+      <a href="https://dev.to/f10.shubham" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ff10.shubham%2F&subtitle=f10.shubham&size=square" 
+        alt ="Shubham Mishra">
+      </a>
+    </td>
   </tr>
 </table>
-
-<br>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aenigma-lab&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+</div><br>
 
 <h1 class="tech-stack-heading">💫 About Me</h1>
-
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
 
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
@@ -86,11 +89,11 @@
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aenigma-lab's Stats" style="max-width: 49%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=vue-dark&hide_border=true" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="aenigma-lab's Stats" style="max-width: 49%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=true" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
+</div><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aenigma-lab's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="aenigma-lab's Top Languages">
 
 <h1 class="tech-stack-heading">💻 Tech Stack</h1>
 
@@ -561,6 +564,3 @@
 </div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF&section=footer" width="100%">
-
-
-
