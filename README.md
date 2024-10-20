@@ -393,8 +393,7 @@
 
 
 <br>
-<h1 class="tech-stack-heading"> ![image](https://github.com/user-attachments/assets/ee1a0480-b877-4166-9d1a-5b8901bf4be9)
-Contribution<h1>
+<h1 class="tech-stack-heading">👨‍💻 Contribution<h1>
 
 <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 
@@ -433,7 +432,7 @@ Contribution<h1>
 </div>
 
 
-### Top Repositories
+<h1 class="tech-stack-heading">👨‍💻 Top Repositories<h1>
 
 <div align="center">
   <table>
