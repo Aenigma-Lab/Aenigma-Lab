@@ -491,7 +491,8 @@
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
 
-<h1 class="tech-stack-heading">🕵️ My HackerRank Profile<h1>
+<h2>🕵️ My HackerRank Profile<h2>
+ 
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 <h1 class="tech-stack-heading">LeetCode Stat with HeatMap</h3>
 <p align="center">
