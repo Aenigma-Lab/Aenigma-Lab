@@ -61,7 +61,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://dev.to/f10.shubham" target="_blank">
+      <a href="https://www.instagram.com/f10.shubham" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ff10.shubham%2F&subtitle=f10.shubham&size=square" 
         alt ="Shubham Mishra">
       </a>
