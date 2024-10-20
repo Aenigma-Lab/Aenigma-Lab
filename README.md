@@ -496,7 +496,7 @@
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 
 <h1 class="tech-stack-heading">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="24" height="24" style="vertical-align: bottom; margin-right: 8px;" alt="LeetCode Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="48" height="48" style="vertical-align: bottom; margin-right: 8px;" alt="LeetCode Logo">
   <span style="display: inline-block; vertical-align: bottom;">LeetCode Stat with HeatMap</span>
 </h1>
 
