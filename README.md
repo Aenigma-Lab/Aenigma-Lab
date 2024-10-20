@@ -386,7 +386,7 @@
 
 
 <h1 class="tech-stack-heading">✍️ Random Dev Quote</h1>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 
 <h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
