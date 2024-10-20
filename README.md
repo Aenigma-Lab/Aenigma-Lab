@@ -491,7 +491,9 @@
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
 
-<h2>🕵️ My HackerRank Profile<h2>
+<h1 class="tech-stack-heading">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Rank" width="32" height="32" style="vertical-align: bottom;" alt="HackerRank Logo"> MY Hacker Rank Profile
+</h1>
  
 [![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
 
