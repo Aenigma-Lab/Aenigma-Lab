@@ -93,7 +93,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=false" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
 </div><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=1200px&layout=compact" alt="aenigma-lab's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=930px&layout=donut" alt="aenigma-lab's Top Languages">
 
 <h1 class="tech-stack-heading">💻 Tech Stack</h1>
 
