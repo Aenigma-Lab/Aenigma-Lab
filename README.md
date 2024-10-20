@@ -6,11 +6,6 @@
 
 </div>
 
-<div align="center">
- <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23ffffff&borderRadius=15&fontColor=%23000000&boxShadow=0px%202px%205px%20rgba(0,%200,%000,%200.5)&linkedin=shubhammishra100&github=Aenigma-Lab&facebook=f10.shubham/" alt="Shubham Mishra's Card" />
-</div>
-
-
 <br>
 <h1 align="center">Hii &nbsp;<a href="https://shubham.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
 
