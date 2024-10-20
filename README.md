@@ -89,8 +89,9 @@
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="aenigma-lab's Stats" style="max-width: 49%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=false" alt="shubaenigma-lab's Streak" style="max-width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=930px&layout=compact" alt="aenigma-lab's Stats"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=false&card_width=930px&layout=compact" alt="shubaenigma-lab's Streak" style="max-width: 100%;">
+</div>
 </div><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=930px&layout=donut" alt="aenigma-lab's Top Languages">
