@@ -75,18 +75,14 @@
 
 </div><br>
 
-<h1 class="tech-stack-heading">💫 About Me</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/about_me.gif" width="50px" height="50px">About Me</h1>
 <p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
 
 <p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
 
 <p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
 
-
-
-
-<h1 class="tech-stack-heading">📊 GitHub Stats</h1>
-
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_stat_transparent.gif" width="50px" height="50px">GitHub Stats</h1>
 
 <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=930px&layout=compact" alt="aenigma-lab's Stats">
@@ -379,26 +375,23 @@
 </div>
 <br>
 
-
-<h1 class="tech-stack-heading">💻 More Tech Stacks</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/more_tech_transparent.gif" width="50px" height="50px">More Tech Stacks</h1>
 
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) !![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 
-<h1 class="tech-stack-heading">✍️ Random Dev Quote</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/random_dev_quote_transparent.gif" width="50px" height="50px">Random Dev Quote</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 
-<h1 class="tech-stack-heading">🔝 Top Contributed Repo</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_contribution.gif" width="50px" height="50px">Top Repositories</h1>
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&icon_color=fb8c00&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-
-
 <br>
-<h1 class="tech-stack-heading">👨‍💻 Contribution<h1>
 
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/repo_contribution_transparent.gif" width="50px" height="50px">Contribution</h1>
 <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 
 
-<h1 class="tech-stack-heading">📈 Git Graph<h1>
+ <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_stat_transparent.gif" width="50px" height="50px">Github Graph</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 
@@ -432,8 +425,7 @@
 </div>
 
 
-<h1 class="tech-stack-heading">🎢 Top Repositories<h1>
-
+ <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/top_repositories.gif" width="50px" height="50px">Top Repositories</h1>
 <div align="center">
   <table>
     <tr>
@@ -463,8 +455,7 @@
   </table>
 </div>
 
-<h1 class="tech-stack-heading">🏋 GitHub Contribution Chart and Activity<h1>
-
+ <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_activity_transparent.gif" width="50px" height="50px">Git Chart & Activity</h1>
 <a href="https://github.com/Aenigma-Lab">
     <img src="https://ghchart.rshah.org/Aenigma-Lab" alt="Aenigma-Lab's GitHub Contribution Chart">
 </a>
@@ -486,7 +477,8 @@
   style="display: block; margin: 0 auto;" 
 />
 
-  <h2>✨ Star History Chart</h2>
+
+ <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/star_history_transparent.gif" width="50px" height="50px">Star History Chart</h1>
   <a href="https://star-history.com/#aenigma-lab/aenigma-lab&Date">
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aenigma-lab/aenigma-lab&type=Date&theme=dark" />
   </a>
@@ -526,7 +518,8 @@
     </td>
   </tr>
 </table>
-<h1 class="tech-stack-heading">📫 Let's Connect!</h1>
+
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/let_connect_transparent.gif" width="50px" height="50px">Let's Connect!</h1>
 <table align="center">
   <tr>
     <td colspan="3" align="center">
@@ -542,7 +535,7 @@
   </tr>
 </table>
 
-<h1 class="tech-stack-heading">💰 Support Me</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/support_me_transparent.gif" width="50px" height="50px">Support Me</h1>
 <div align="center">
   <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
