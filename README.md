@@ -82,7 +82,7 @@
 
 <p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_stat_transparent.gif" width="50px" height="50px">GitHub Stats</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/git_stat_transparent.gif" width="50px" height="50px">GitHub Stats</h1>
 
 <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=930px&layout=compact" alt="aenigma-lab's Stats">
