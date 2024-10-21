@@ -18,7 +18,7 @@
 
 </p>
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/socials.gif" width="50px" height="50px">Socials</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/socials_transparent.gif" width="50px" height="50px">Socials</h1>
 
 <div align="center">
 <table>
