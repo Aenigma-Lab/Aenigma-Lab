@@ -9,20 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    environment: portfolio  # Specify your environment name here
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT here
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 250
       - name: Commit & Push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the PAT here
         run: |
-          git config user.name ${{ github.repository_owner }}
+          git config user.name Aenigma-Lab
           git config user.email f10.shubham@gmail.com
           git add -A .
-          git commit -m "GitHub 3D Profile"
+          git commit -m "generated"
           git push
