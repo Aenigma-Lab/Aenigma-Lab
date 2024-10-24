@@ -394,6 +394,9 @@
  <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_stat_transparent.gif" width="50px" height="50px">Github Graph</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aenigma-lab&custom_title=Aenigma-lab's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 <div align="center">
 <table>
