@@ -1,11 +1,25 @@
-name: Test Token
+name: GitHub-Profile-3D-Contribution
 
 on:
+  schedule: # every 12 hours
+    - cron: "11 4 * * *"
   workflow_dispatch:
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Check GITHUB_TOKEN
-        run: echo "${{ secrets.METRICS_TOKEN }}"
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN}}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 250
+      - name: Commit & Push
+        run: |
+          git config user.name ${{ github.repository_owner }}
+          git config user.email f10.shubham@gmail.com
+          git add -A .
+          git commit -m "GitHub 3D Profile"
+          git push
