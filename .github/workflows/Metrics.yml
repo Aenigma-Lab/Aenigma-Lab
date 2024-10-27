@@ -1,0 +1,58 @@
+name: Metrics Embed
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          # Base content
+          # Enable habits plugin
+          plugin_habits: true
+          # Events to use (e.g., "push", "pull_request")
+          plugin_habits_from: "push"
+          # Skipped repositories (comma-separated)
+          plugin_habits_skipped: "complaint-management-system"
+          # Event maximum age (in days)
+          plugin_habits_days: 30
+          # Mildly interesting facts
+          plugin_habits_facts: true
+          # Charts display type (e.g., "bar", "pie")
+          plugin_habits_charts_type: "bar"
+          # Trim unused hours on charts
+          plugin_habits_trim: true
+          # Display limit (languages)
+          plugin_habits_languages_limit: 5
+          # Display threshold (percentage)
+          plugin_habits_languages_threshold: 10
+
+          # Enable wakatime plugin
+          plugin_wakatime: true
+          # WakaTime API token
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_TOKEN }}
+          # WakaTime username
+          plugin_wakatime_user: "shubham_mishra"
+          # Display limit (entries per graph)
+          plugin_wakatime_limit: 5
+          # Ignored languages (comma-separated)
+          plugin_wakatime_languages_ignored: "HTML,CSS"
+          # Repositories visibility
+          plugin_wakatime_repositories_visibility: "public"
+
+          # Enable leetcode plugin
+          plugin_leetcode: true
+          # LeetCode login
+          plugin_leetcode_user: "idealshubham1998"
+          # Display limit (skills)
+          plugin_leetcode_limit_skills: 5
+          # Display limit (recent)
+          plugin_leetcode_limit_recent: 5
+
+          # Page speed Check
+          plugin_pagespeed_detailed: true
