@@ -1,8 +1,7 @@
 name: page Speed report
-
 on:
   schedule: # every 12 hours
-    - cron: "01 */12 * * *"  # Adjusted to run every 12 hours
+    - cron: "01 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,10 +11,20 @@ jobs:
       - name: Generate Detailed PageSpeed Report
         uses: lowlighter/metrics@latest
         with:
-          filename: page-speed/metrics.plugin.pagespeed.detailed.svg  # Updated path
+          filename: metrics.plugin.pagespeed.detailed.svg
           token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           plugin_pagespeed_url: https://github.com/Aenigma-Lab/
+
+      - name: Move Report to Specified Directory
+        run: |
+          mkdir -p metrics_renders/page-speed  # Create directory if it doesn't exist
+          mv metrics.plugin.pagespeed.detailed.svg metrics_renders/page-speed/
+          
+      - name: Output Condition
+        if: always()  # Always execute this step
+        run: echo "Output saved to /metrics_renders/page-speed/metrics.plugin.pagespeed.detailed.svg"
+
