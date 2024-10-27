@@ -1,0 +1,21 @@
+name: Detailed report
+
+on:
+  schedule: # every 12 hours
+    - cron: "01 */12 * * *"  # Adjusted to run every 12 hours
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Detailed PageSpeed Report
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          plugin_pagespeed_url: https://github.com/Aenigma-lab
