@@ -1,0 +1,66 @@
+            - name: Metrics embed
+  # You may pin to the exact commit or the version.
+  # uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+  uses: lowlighter/metrics@v3.34
+  with:
+    # Base content
+    
+    # Enable habits plugin
+    plugin_habits: # optional, default is <default-value>
+    # Events to use
+    plugin_habits_from: # optional, default is <default-value>
+    # Skipped repositories
+    plugin_habits_skipped: # optional, default is <default-value>
+    # Event maximum age
+    plugin_habits_days: # optional, default is <default-value>
+    # Mildly interesting facts
+    plugin_habits_facts: # optional, default is <default-value>
+    # Charts
+    plugin_habits_charts: # optional, default is <default-value>
+    # Charts display type
+    plugin_habits_charts_type: # optional, default is <default-value>
+    # Trim unused hours on charts
+    plugin_habits_trim: # optional, default is <default-value>
+    # Display limit (languages)
+    plugin_habits_languages_limit: # optional, default is <default-value>
+    # Display threshold (percentage)
+    plugin_habits_languages_threshold: # optional, default is <default-value>
+    
+     # Enable wakatime plugin
+    plugin_wakatime: # optional, default is <default-value>
+    # WakaTime API token
+    plugin_wakatime_token: # optional, default is <default-value>
+    # WakaTime URL
+    plugin_wakatime_url: # optional, default is <default-value>
+    # WakaTime username
+    plugin_wakatime_user: # optional, default is <default-value>
+    # Displayed sections
+    plugin_wakatime_sections: # optional, default is <default-value>
+    # Time range
+    plugin_wakatime_days: # optional, default is <default-value>
+    # Display limit (entries per graph)
+    plugin_wakatime_limit: # optional, default is <default-value>
+    # Other languages
+    plugin_wakatime_languages_other: # optional, default is <default-value>
+    # Ignored languages
+    plugin_wakatime_languages_ignored: # optional, default is <default-value>
+    # Repositories visibility
+    plugin_wakatime_repositories_visibility: # optional, default is <default-value>
+    # Enable leetcode plugin
+    plugin_leetcode: # optional, default is <default-value>
+    # LeetCode login
+    plugin_leetcode_user: # optional, default is <default-value>
+    # Displayed sections
+    plugin_leetcode_sections: # optional, default is <default-value>
+    # Display limit (skills)
+    plugin_leetcode_limit_skills: # optional, default is <default-value>
+    # Ignored skills
+    plugin_leetcode_ignored_skills: # optional, default is <default-value>
+    # Display limit (recent)
+    plugin_leetcode_limit_recent: # optional, default is <default-value>
+
+    #Page speed Check
+    plugin_pagespeed_detailed: # optional, default is <default-value>
+ 
+    
+          
