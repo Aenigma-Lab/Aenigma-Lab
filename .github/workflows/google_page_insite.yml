@@ -18,4 +18,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          plugin_pagespeed_url: https://github.com/Aenigma-lab
+          plugin_pagespeed_url: https://github.com/Aenigma-Lab/
