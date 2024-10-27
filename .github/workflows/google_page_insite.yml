@@ -1,4 +1,4 @@
-name: Detailed report
+name: page Speed report
 
 on:
   schedule: # every 12 hours
@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  google-pagespeed-api:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Detailed PageSpeed Report
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.pagespeed.detailed.svg
+          filename: page-speed/metrics.plugin.pagespeed.detailed.svg  # Updated path
           token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes
