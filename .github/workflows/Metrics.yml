@@ -12,6 +12,7 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
         with:
+          plugin_habits_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # Base content
           # Enable habits plugin
           plugin_habits: true
