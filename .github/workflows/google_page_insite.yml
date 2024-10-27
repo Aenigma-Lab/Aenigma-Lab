@@ -1,4 +1,5 @@
-name: page Speed report
+name: Detailed report
+
 on:
   schedule: # every 12 hours
     - cron: "01 */12 * * *"
@@ -17,14 +18,16 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          plugin_pagespeed_url: https://github.com/Aenigma-Lab/
+          plugin_pagespeed_url: https://github.com/Aenigma-Lab
+
+      - name: List files after report generation
+        run: ls -al  # Check the current directory for generated files
 
       - name: Move Report to Specified Directory
         run: |
           mkdir -p metrics_renders/page-speed  # Create directory if it doesn't exist
-          mv metrics.plugin.pagespeed.detailed.svg metrics_renders/page-speed/
-          
-      - name: Output Condition
-        if: always()  # Always execute this step
-        run: echo "Output saved to /metrics_renders/page-speed/metrics.plugin.pagespeed.detailed.svg"
+          mv metrics.plugin.pagespeed.detailed.svg metrics_renders/page-speed/ || echo "File not found, skipping move."
 
+      - name: Output Condition
+        if: always()
+        run: echo "Output saved to /metrics_renders/page-speed/metrics.plugin.pagespeed.detailed.svg"
