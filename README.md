@@ -491,7 +491,7 @@
 </p>
 
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="50px" height="50px">Stack Overflow</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="80px" height="40px">Stack Overflow</h1>
 
 <table>
   <tr>
