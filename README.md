@@ -490,10 +490,11 @@
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
 
-<h1 class="tech-stack-heading" style="line-height: 1.5; display: flex; align-items: center;">
-  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="60px" height="60px" style="margin-right: 0; margin-top: 5px;">
-  <span style="margin-left: 0;">Stack Overflow</span>
-</h1>
+<div class="tech-stack-heading" style="display: flex; align-items: center; line-height: 1.5;">
+  <img src="stackoverflow.gif" width="60px" height="60px" style="margin-right: 10px;">
+  <h1 style="margin: 0;">Stack Overflow</h1>
+</div>
+
 <table>
   <tr>
     <th colspan="2">Stack Overflow</th>
