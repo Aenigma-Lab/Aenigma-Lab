@@ -491,9 +491,7 @@
 </p>
 
 
-<h1 class="tech-stack-heading">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="32" height="32" style="vertical-align: bottom;" alt="LeetCode Logo"> Stack Overflow
-</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="50px" height="50px">Stack Overflow</h1>
 
 <table>
   <tr>
