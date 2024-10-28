@@ -491,8 +491,10 @@
 </p>
 
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="80px" height="80px">Stack Overflow</h1>
-
+<h1 class="tech-stack-heading" style= "display: flex; align-items: center;">
+  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="70px" height="70px" style="margin-top: 5px;">
+  <span>Stack Overflow</span>
+</h1>
 <table>
   <tr>
     <th colspan="2">Stack Overflow</th>
