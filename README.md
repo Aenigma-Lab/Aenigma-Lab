@@ -491,7 +491,7 @@
 </p>
 
 <div class="tech-stack-heading" style="display: flex; align-items: center; line-height: 1.5;">
-  <img src="stackoverflow.gif" width="60px" height="60px" style="margin-right: 10px;">
+  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="60px" height="60px" style="margin-right: 10px;">
   <h1 style="margin: 0;">Stack Overflow</h1>
 </div>
 
