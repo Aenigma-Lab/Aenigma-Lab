@@ -529,7 +529,7 @@
   <tr>
     <td colspan="3" align="center">
       <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
-        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/buymeacofee.gif" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/buymecofee_qr.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
       </a>
     </td>
   </tr>
