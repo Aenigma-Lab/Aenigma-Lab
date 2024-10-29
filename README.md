@@ -525,15 +525,27 @@
 </table>
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/support_me_transparent.gif" width="50px" height="50px">Support Me</h1>
-<div align="center">
-  <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-  <br>
-  <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://buymeacoffee.com/shubham.mishra.1" target="_blank">
+        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/buymeacofee.gif" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/g_pay_qr.png" target="_blank">
+        <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/g_pay_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/buymecofee_qr.png" alt="QR Code" style="height: 150px; width: 150px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
