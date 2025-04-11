@@ -81,9 +81,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=false&card_width=930px&layout=compact" alt="shubaenigma-lab's Streak" style="max-width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=930px&layout=donut&text_color=ffffff" alt="aenigma-lab's Top Languages">
     <img 
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=dark&hide_border=false&card_width=930&bg_color=1e1e1e&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff" 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=dark&hide_border=false&card_width=930&bg_color=151515&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff" 
   alt="Codemaker2015 WakaTime Stats" 
-  style="width: 100%; height: auto;" />
+  style="width: 90%; height: auto;" />
 
     
 
