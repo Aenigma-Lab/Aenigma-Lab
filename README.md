@@ -79,11 +79,11 @@
 <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=930px&layout=compact" alt="aenigma-lab's Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aenigma-lab&theme=dark&hide_border=false&card_width=930px&layout=compact" alt="shubaenigma-lab's Streak" style="max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=930px&layout=donut&text_color=ffffff" alt="aenigma-lab's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenigma-lab&theme=dark&show_icons=true&hide_border=false&card_width=850px&layout=donut&text_color=ffffff" alt="aenigma-lab's Top Languages">
     <img 
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=dark&hide_border=false&card_width=930&bg_color=151515&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff" 
-  alt="Codemaker2015 WakaTime Stats" 
-  style="width: 90%; height: auto;" />
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=shubham_mishra&layout=compact&theme=dark&hide_border=false&card_width=850&bg_color=151515&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff" 
+  alt="Shubham Mishra WakaTime Stats" 
+  style="width: 100%; height: auto;" />
 
     
 
