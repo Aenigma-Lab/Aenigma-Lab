@@ -498,7 +498,7 @@
 </p>
 
 <h1 class="tech-stack-heading">
-  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/geeksforgeeks_transparent.png" width="60px" height="60px">
+  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/geeksforgeeks_transparent.png" width="40px" height="40px">
   GeeksForGeeks Stat
 </h1>
 <p align="center">
