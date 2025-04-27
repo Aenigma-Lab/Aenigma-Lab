@@ -497,6 +497,17 @@
   <img align="center" src="https://leetcard.jacoblin.cool/shubham-mishra-1?theme=dark&font=Nova%20Round&ext=heatmap"/>
 </p>
 
+<h1 class="tech-stack-heading">
+  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/leetcode_transparent.gif" width="60px" height="60px">
+  GeeksForGeeks Stat
+</h1>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/shubham_mishra_1" target="_blank">
+    <img align="center" src="https://gfgstatscard.vercel.app/shubham_mishra_1?theme=dark&font=Nova" style="border: 3px solid #4CAF50;;"/>
+  </a>
+</p>
+
+
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/stackoverflow.gif" width="60px" height="60px">Stack Overflow</h1>
 
 <table>
