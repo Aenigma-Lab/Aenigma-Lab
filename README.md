@@ -489,7 +489,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Rank" width="32" height="32" style="vertical-align: bottom;" alt="HackerRank Logo"> MY Hacker Rank Profile
 </h1>
  
-[![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/idealshubham1998)
+[![HackerRank Profile](https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/assets/shubham-hackerrank-profile.png)](https://www.hackerrank.com/profile/shubh_mishra_1)
 
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/leetcode_transparent.gif" width="60px" height="60px">Leetcode with Heatmap</h1>
