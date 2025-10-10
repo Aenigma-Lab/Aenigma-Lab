@@ -379,8 +379,30 @@
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) !![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/random_dev_quote_transparent.gif" width="50px" height="50px">Random Dev Quote</h1>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+<!-- <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/random_dev_quote_transparent.gif" width="20px" height="3000px">Random Dev Quote</h1>
+<img src= "https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/success_video.gif"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"> -->
+
+<h1 class="tech-stack-heading" style="text-align:center;">
+  <img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/random_dev_quote_transparent.gif"
+       width="50" height="50" alt="Random Dev Quote Icon">
+  Random Dev Quote
+</h1>
+
+<!-- Centered GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aenigma-Lab/Aenigma-Lab/main/assets/success_video.gif"
+       alt="Success Animation"
+       width="400"
+       style="display:block; margin:auto;">
+</p>
+
+<!-- Full-width quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+     alt="Random Dev Quote"
+     style="width:100%; display:block; margin-top:10px;">
+
+
+
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/github_contribution.gif" width="50px" height="50px">Top Repositories</h1>
 <img src="https://github-contributor-stats.vercel.app/api?username=aenigma-lab&limit=10&theme=dark&icon_color=fb8c00&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
