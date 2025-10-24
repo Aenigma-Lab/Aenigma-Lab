@@ -10,11 +10,10 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&gradient=0072FF,8A2BE2&center=true&vCenter=true&width=435&lines=SOFTWARE+ENGINEER;SOFTWARE+ENGINEER;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=FFD700&center=true&vCenter=true&width=435&lines=SOFTWARE+ENGINEER;SOFTWARE+ENGINEER;" alt="Typing SVG" />
 
-</p>
 
-<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/socials_transparent.gif" width="50px" height="50px">Socials</h1>
+<h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/socials_transparent.gif" width="20px" height="20px">Socials</h1>
 <div align="center">
 <table>
   <tr>
