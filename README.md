@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF" width="100%">
 
-<!-- <div align="center">
-  <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&iconColor=%23ffffff&backgroundColor=%23151515" alt="Shubham Mishra's Card" />
-</div> -->
 <div align="center">
   <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=I%E2%80%99m%20a%20dedicated%20software%20engineer%20who%20loves%20turning%20ideas%20into%20efficient%2C%20scalable%2C%20and%20secure%20solutions.%20I%20enjoy%20exploring%20the%20intersection%20of%20code%2C%20data%2C%20and%20intelligence%20building%20tools%20that%20make%20technology%20smarter%20and%20more%20human-centric.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0%2C%200%2C%200%2C%200.5)&iconColor=%23ffffff&backgroundColor=%23151515" alt="Shubham Mishra's Card" />
 </div>
@@ -11,8 +8,10 @@
 <br>
 <h1 align="center">Hii &nbsp;<a href="https://shubham.ml/"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/wave.gif" width="48"></a> , I'm SHUBHAM MISHRA </h1>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&gradient=0072FF,8A2BE2&center=true&vCenter=true&width=435&lines=SOFTWARE+ENGINEER;SOFTWARE+ENGINEER;" alt="Typing SVG" />
+
 </p>
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/socials_transparent.gif" width="50px" height="50px">Socials</h1>
