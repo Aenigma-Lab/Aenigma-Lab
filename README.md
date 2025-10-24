@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007FFF" width="100%">
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=Full-Stack%20Developer%20skilled%20in%20Python,%20JavaScript,%20HTML,%20CSS,%20Frappe,%20and%20Django.%20Keen%20on%20exploring%20Data%20Science,%20AI,%20and%20ML.%20Eager%20to%20learn%20and%20grow%20in%20these%20areas.%20Passionate%20about%20technology%20and%20innovative%20solutions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0,%200,%200,%200.5)&iconColor=%23ffffff&backgroundColor=%23151515" alt="Shubham Mishra's Card" />
+</div> -->
+<div align="center">
+  <img width="100%" src="https://cardivo.vercel.app/api?name=Shubham%20Mishra&description=I%E2%80%99m%20a%20dedicated%20software%20engineer%20who%20loves%20turning%20ideas%20into%20efficient%2C%20scalable%2C%20and%20secure%20solutions.%20I%20enjoy%20exploring%20the%20intersection%20of%20code%2C%20data%2C%20and%20intelligence%20building%20tools%20that%20make%20technology%20smarter%20and%20more%20human-centric.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D10yWGSEv1lKc6CEKkhYJGPTI2HNjD64ZA&colorPattern=%23eaeaea&borderRadius=15&fontColor=%23ffffff&boxShadow=0px%202px%205px%20rgba(0%2C%200%2C%200%2C%200.5)&iconColor=%23ffffff&backgroundColor=%23151515" alt="Shubham Mishra's Card" />
 </div>
 
  
@@ -69,11 +72,13 @@
 </div><br>
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/about_me.gif" width="50px" height="50px">About Me</h1>
-<p>Full Stack Developer at Preciholesports Pvt. Ltd.</p>
+<p><strong>💻 Software Engineer | 🚀 Tech Enthusiast | 🧠 Problem Solver</strong></p>
 
-<p>I am a Full Stack Developer at Preciholesports Pvt. Ltd., specializing in crafting dynamic web applications using Python, JavaScript, CSS, and HTML. My expertise in MariaDB allows me to manage and optimize databases effectively, ensuring robust and reliable technology solutions.</p>
+<p>Hello! I’m <strong>Shubham Mishra</strong>, a Software Engineer at <strong>Preciholesports Pvt. Ltd.</strong> I specialize in building clean, efficient, and scalable software solutions. My toolkit includes <strong>Python 🐍, JavaScript 🧠, HTML 🌐, CSS 🎨</strong> and <strong>MariaDB 🗄️</strong>, which I use to develop reliable, user-focused applications.</p>
 
-<p>I am currently expanding my knowledge in machine learning (ML) and artificial intelligence (AI), aiming to integrate these technologies into my work to drive innovation. Dedicated to continuous learning, I stay updated on industry trends to enhance functionality and maintain a competitive edge.</p>
+<p>Currently, I’m broadening my expertise to work with large-scale information systems, exploring how data can flow, scale, and power intelligent applications. My goal is to combine strong software development skills with innovative, data-driven solutions.</p>
+
+<p>Beyond coding, I’m passionate about learning emerging technologies, automating processes, and creating systems that make technology smarter, more efficient, and impactful.</p>
 
 <h1 class="tech-stack-heading"><img src="https://github.com/Aenigma-Lab/Aenigma-Lab/blob/main/icons/git_stat_transparent.gif" width="50px" height="50px">GitHub Stats</h1>
 
